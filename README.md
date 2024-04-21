@@ -6,8 +6,9 @@ This project is an exploration into the creation of news recommender systems usi
 ## Repository Contents
 
 - **Notebooks:**
-  - `evaluation.ipynb` - Contains the evaluation metrics for the recommender systems.
+  - `evaluation.ipynb` - Contains the evaluation methods for feature- and collaborative filtering.
   - `evaluation_logistic_reg.ipynb` - Specific evaluation for the logistic regression model within feature-based recommendation.
+  - `evaluation_popular.ipynb` - Specific evaluation for most popular baseline method.
   - `feature_based.ipynb` - Implements the feature-based recommendation system.
   - `item_collab_filtering.ipynb` - Implements item-based collaborative filtering approach.
   - `most_popular.ipynb` - Baseline method: Most Popular filtering: .
