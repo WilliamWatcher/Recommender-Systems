@@ -14,7 +14,7 @@ This project is an exploration into the creation of news recommender systems usi
 
 - **Directories:**
   - `.vscode` - Contains VSCode settings and configurations.
-  - `data` - Expected to hold the MIND dataset files.
+  - `data` - Holds the MIND dataset files.
   - `venv` - Houses a Python virtual environment (own setup required).
   - 
 ## Methods Implemented
