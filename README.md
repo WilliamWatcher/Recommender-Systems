@@ -10,7 +10,7 @@ This project is an exploration into the creation of news recommender systems usi
   - `evaluation_logistic_reg.ipynb` - Specific evaluation for the logistic regression model within feature-based recommendation.
   - `feature_based.ipynb` - Implements the feature-based recommendation system.
   - `item_collab_filtering.ipynb` - Implements item-based collaborative filtering approach.
-  - `most_popular.ipynb` - Central notebook with an overview and aggregated findings.
+  - `most_popular.ipynb` - Baseline method: Most Popular filtering: .
 
 - **Directories:**
   - `.vscode` - Contains VSCode settings and configurations.
